@@ -1,6 +1,6 @@
 {
-  "homepage": "http://niconeiman.github.io/avatars",
-"name": "avatar",
+  "homepage": "http://niconei.github.io/avatars",
+  "name": "avatar",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
