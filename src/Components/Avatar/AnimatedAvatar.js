@@ -86,4 +86,4 @@ export default function Model({ ...props }) {
   )
 }
 
-useGLTF.preload('/animatedAvatar.glb')
+useGLTF.preload(`${process.env.PUBLIC_URL}/animatedAvatar.glb`)
